@@ -1,1 +1,8 @@
-{"name": "IncidentOracle", "description": "DORA Art. 17-23 incident management \u2014 12 MCP tools for classification, timelines, RCA", "category": "compliance", "tags": ["dora", "incident", "response", "compliance"], "tools": 12, "transport": "streamable-http", "endpoint": "https://tooloracle.io/incident/mcp/"}
+{
+  "name": "incidentOracle",
+  "description": "DORA Art. 17-23 Incident Management \u2014 12 MCP tools for ITS reporting",
+  "repository": "https://github.com/ToolOracle/incidentoracle",
+  "endpoint": "https://tooloracle.io/incident/mcp/",
+  "tools": 12,
+  "license": "MIT"
+}
