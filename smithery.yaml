@@ -1,0 +1,5 @@
+name: IncidentOracle
+description: DORA Art. 17-23 Incident management — 10 tools
+endpoint: https://tooloracle.io/incident/mcp/
+transport: streamable-http
+license: MIT
